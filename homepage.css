@@ -1,0 +1,15 @@
+.row{
+    width: 100%;
+    text-align: center;
+}
+.row .col{
+    width: 30%;
+    margin: 5px;
+    text-align: center;
+    display: inline-block;
+    box-shadow: 0px 0px 5px #333;
+}
+.row .col img{
+    width: 100%;
+    height: 200px;
+}
